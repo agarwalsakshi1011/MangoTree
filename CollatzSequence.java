@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class CollatzSequence {
    public static void main(String[] args) {
-        // write your code here
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         if(n<=0)
